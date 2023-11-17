@@ -29,8 +29,10 @@ In completing this exercise I learned the following:
     • classes and class methods
 
 ## What did you struggloe with?
-I struggled with importin functions at first but Omar helped me by recognizing a naming error that prevented my code from working.  Once that was cleared up, i was able to continue fairly well.  
-I also had a problem with the program getting stuck on line 27 where I accidentally left off a comma. I did eventually find that by Chat GPT after much frustration
+I struggled with importing functions at first but Omar helped me by recognizing a naming error that prevented my code from working.  Once that was cleared up, i was able to continue fairly well.  
+I also had a problem with the program getting stuck on line 27 where I accidentally left off a comma. I did eventually find that by Chat GPT after much frustration.
+Tutor Lebuso Philly helped me corrct the format of the return and streamline a few clunky bits of code I'd made.
+
 
     
 ## Table of Contents:
