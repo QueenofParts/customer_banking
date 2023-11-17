@@ -5,7 +5,8 @@ This is the repository for the Module 3 challenge.
 This is an exercise assigned to the class to demonstrate our understanding of the concepts covered in Modules 1 and 2  and 3 of AI Bootcamp.
 
 ## Motivation:
-My motivation in this working on this challenge is to practice and solidify several coding concepts and Python commands, syntax, usage and best practices. I worked on this with other students in the class to help all of us share our questions, observations and ideas with one another as we learn collaboratively. - "You find yourself with someone else."
+My motivation in this working on this challenge is to practice and solidify several coding concepts and Python commands, syntax, usage and best practices. The exercise needed to use the following subjects discussed in class:   functions (creating and importing), passing arguments into functions, refactoring code, classes, creating methods, and instances.  I workedon this with other students in the class to help all of us share our questions, observations and ideas with one another as we learn collaboratively. 
+
 ## The focus of this exercise:
 This project provides a simple interst calculator and revised (or predicted) balance for savings and CD Accounts.
 The following are some of the potential problems it solves:
@@ -15,32 +16,22 @@ The following are some of the potential problems it solves:
     •	allowing customers to see how interest accumulates for them
     
     •	streamlining of the new account or investment process
-    
-   # Module 2 Challenge - Marnie Brannon
----------------------------------------------------------------
-This is an exercise assigned to the class to demonstrate our understanding of the concepts covered in Modules 1 and 2 of AI Bootcamp.
+  
 
-## Motivation:
-My motivation in this working on this challenge is to practice and solidify several coding concepts and Python commands, syntax, usage and best practices. I workedon this with other students in the class to help all of us share our questions, observations and ideas with one another as we learn collaboratively. - "You find yourself with someone else."
-## The focus of this exercise:
-This project provides an interactive food truck menu.
-The following are some of the potential problems it solves:
-
-    •	reducing the amount of employee time taking orders
-    
-    •	allowing customers to see the menu op close as well as from off site
-    
-    •	streamlining of the order process
-    
-    •	allows many orders to be placed simultaneuosly
-    
-##What did you learn?
+## What did you learn?
 In completing this exercise I learned the following:
+    • how to create a function
+
     • how to import and use functions
     
-    • 
+    • passing arguments and variables into functions
     
-    • 
+    • classes and class methods
+
+## What did you struggloe with?
+I struggled with importin functions at first but Omar helped me by recognizing a naming error that prevented my code from working.  Once that was cleared up, i was able to continue fairly well.  
+I also had a problem with the program getting stuck on line 27 where I accidentally left off a comma. I did eventually find that by Chat GPT after much frustration
+
     
 ## Table of Contents:
 
@@ -63,9 +54,9 @@ Installation instructions to be added.
 ## Credits and Types of help:
 My collaborators for this project are:
 
-   • Omar Hassanein   (add link to github profile)
+   • Omar Hassanein   (add link to github profile)  
   
-   • Farzana Azad-Hussain  (add link to github profile)
+   Omar helped me tremendously by pointing out that calling
 
 With many thanks to them for time spent, Farzana and Omar provided the following help: 
 
