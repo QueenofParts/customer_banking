@@ -23,7 +23,7 @@ savings_balance = float(input("What is the savings account balance? "))
 savings_interest = float(input("What is the current savings account interest rate? " ))
 savings_maturity = int(input("How many months will the savings account be held? "))
 
-updated_savings_balance = 0    
+   
 interest_earned, updated_savings_balance = create_savings_account(savings_balance, savings_interest, savings_maturity)
 
 # Add blank lines
@@ -35,7 +35,7 @@ create_savings_account(savings_balance, savings_interest, savings_maturity)
 
     # Print out the interest earned and updated savings account balance with interest earned for the given months.
     # ADD YOUR CODE HERE
-print("The interest earned is $", updated_savings_balance, "and the updated savings account balance is $", interest_earned)
+print("The interest earned is $",format(updated_savings_balance, ",.2f"), "and the updated savings account balance is $", format(interest_earned, ",.2f"))
    
     # Prompt the user to set the CD balance, interest rate, and months for the CD account.
     # ADD YOUR CODE HERE
@@ -49,8 +49,7 @@ cd_interest = float(input("what is thre current CD account interest rate? "))
 cd_maturity = int(input("How many months will the cd account be held? "))
 
 
-updated_CD_balance = 0
-interest_earned, updated_CD_balance = create_cd_account(cd_balance, cd_interest, cd_maturity)
+updated_CD_balance, interest_earned = create_cd_account(cd_balance, cd_interest, cd_maturity)
 
     # Add blank lines
 print()
@@ -60,7 +59,8 @@ create_cd_account(cd_balance, cd_interest, cd_maturity)
 
     # Print out the interest earned and updated CD account balance with interest earned for the given months.
     # ADD YOUR CODE HERE
-print("The interest earned on your CD is $", interest_earned, "and the new CD balance is $", updated_CD_balance)
+print("The interest earned on your CD is $",format(interest_earned, ",.2f"), "and the new CD balance is $",format(updated_CD_balance, ",.2f"))
+
 # Add blank lines
 print()
 print() 
